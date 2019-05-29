@@ -1,0 +1,11 @@
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.deps.json
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.json
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.dev.json
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.dll
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.pdb
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csprojAssemblyReference.cache
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csproj.CoreCompileInputs.cache
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfoInputs.cache
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfo.cs
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.dll
+/Users/chrillejansson/Documents/C#learning/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.pdb
